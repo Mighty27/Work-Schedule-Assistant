@@ -1,0 +1,6 @@
+{
+  "name": "Jadwal Kerja",
+  "description": "Aplikasi pengelolaan jadwal kerja harian dengan fitur absensi, pengingat, input jadwal dengan AI, dan tracking lokasi otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
